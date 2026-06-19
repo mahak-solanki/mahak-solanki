@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hi there, I'm Mahak Solanki ! 👋
 AI/ML Engineer & Python Developer<br>Python (Flask & FastAPI), Machine Learning, Deep Learning, NLP, Generative AI, Data Visualization<br><br>
 ## 🚀 About Me
